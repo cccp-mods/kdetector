@@ -7,7 +7,7 @@
 
 <p>
   <img alt="Version 1.0.1" src="https://img.shields.io/badge/version-1.0.1-202020?style=for-the-badge">
-  <img alt="Among Us 2026.9.29" src="https://img.shields.io/badge/Among%20Us-2026.9.29-5B4BDA?style=for-the-badge">
+  <img alt="Among Us 2026.9.29" src="https://img.shields.io/badge/Among%20Us-v19.1 | v19.0.0 | v18.x-5B4BDA?style=for-the-badge">
   <img alt="BepInEx 6 IL2CPP" src="https://img.shields.io/badge/BepInEx-6%20IL2CPP-D94F4F?style=for-the-badge">
   <img alt="MIT license" src="https://img.shields.io/badge/license-MIT-2F855A?style=for-the-badge">
 </p>
